@@ -6,3 +6,13 @@
 -- INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (6,"Grinch", 112, "M", "Green right down to the core", "Uncouth", 1);
 -- INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (7,"Wendy", 22, "F", "Red dress", "Inviting", 0);
 -- INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (8,null, 9, "M", "Distinguished grey", "Grizzly", 1);
+
+
+INSERT INTO bears(name) VALUES ("Mr. Chocolate");
+INSERT INTO bears(name) VALUES ("Rowdy");
+INSERT INTO bears(name) VALUES ("Tabitha");
+INSERT INTO bears(name) VALUES ("Sergeeant Brown");
+INSERT INTO bears(name) VALUES ("Melissa");
+INSERT INTO bears(name) VALUES ("Grinch");
+INSERT INTO bears(name) VALUES ("Wendy");
+INSERT INTO bears(name) VALUES (NULL);
